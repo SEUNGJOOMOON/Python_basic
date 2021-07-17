@@ -1,5 +1,4 @@
 # Python_basic
-python basic examples
 
 파이썬을 공부하며 작성한 예제파일들입니다.
 
